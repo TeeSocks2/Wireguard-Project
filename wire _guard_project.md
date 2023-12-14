@@ -125,3 +125,9 @@ Click on the newly create tunnel to view its status
 I have to honest, I was not able to figure out how to get this working. Sorry.
 
 # Screenshots
+
+IP Address: [!RegIP](https://github.com/TeeSocks2/Wireguard-Project/issues/1)
+
+PEER phone1: [!Peer](https://github.com/TeeSocks2/Wireguard-Project/issues/2)
+
+VM IP Address: [!VmIP](https://github.com/TeeSocks2/Wireguard-Project/issues/3)
